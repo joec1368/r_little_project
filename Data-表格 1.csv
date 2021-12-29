@@ -1,0 +1,62 @@
+Country Name,Country Code,Series Name,Series Code,2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012]
+Japan,JPN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.2799987792969,84.6839981079102,85.0899963378906,85.3669967651367,85.7040023803711,86.1579971313477,88.1490020751953
+Japan,JPN,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.5589995384216,13.1720004081726,12.7850003242493,12.4750003814697,12.0640003681183,11.66100025177,9.60900020599365
+Japan,JPN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.13000011444092,3.84999990463257,3.98000001907349,5.07999992370605,5.07000017166138,4.55000019073486,4.34999990463257
+Japan,JPN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..,5.42999982833862,5.07999992370605,..,4.5
+Japan,JPN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.26999998092651,3.46000003814697,3.50999999046326,4.01000022888184,3.9300000667572,..,3.5
+Japan,JPN,"Total employment, total (ages 15+)",SL.EMP.TOTL,64041074,64556618,64421881,63515233,63285406,62969428,62794462
+Japan,JPN,Time required to register property (days),IC.PRP.DURS,..,..,..,..,..,..,..
+United Kingdom,GBR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.7080001831055,86.5459976196289,86.5839996337891,86.3290023803711,85.9290008544922,85.745002746582,85.2679977416992
+United Kingdom,GBR,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.3480003774166,10.5549996495246,10.5820001959801,10.8690004050732,11.4060003459453,11.7160003483295,12.1830000281334
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.34999990463257,5.26000022888184,5.61999988555908,7.53999996185303,7.78999996185303,8.03999996185303,7.8899998664856
+United Kingdom,GBR,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,5.13240003585815,5.23239994049072,5.1806001663208,6.72569990158081,7.58500003814697,8.10420036315918,8.28509998321533
+United Kingdom,GBR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.61470007896423,2.36870002746582,2.71070003509521,3.41910004615784,3.65240001678467,4.15110015869141,4.26310014724731
+United Kingdom,GBR,"Total employment, total (ages 15+)",SL.EMP.TOTL,29376873,29597705,29869044,29425472,29516735,29603895,29975391
+United Kingdom,GBR,Time required to register property (days),IC.PRP.DURS,41.5,41.5,41.5,28.5,28.5,28.5,28.5
+United States,USA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.1279983520508,89.3499984741211,89.5690002441406,89.443000793457,89.379997253418,89.6460037231445,89.7009963989258
+United States,USA,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.1380000859499,6.9649999588728,6.77300015836955,6.84100005030632,6.78700009733439,6.58599977940321,6.53100002557039
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.61999988555908,4.61999988555908,5.78000020980835,9.25,9.63000011444092,8.94999980926514,8.06999969482422
+United States,USA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,5.8358998298645,5.72289991378784,6.89379978179932,10.1288995742798,11.0254001617432,10.9098997116089,10.128399848938
+United States,USA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.51699995994568,2.49900007247925,3.09739995002747,5.0282998085022,5.25629997253418,5.16989994049072,4.98619985580444
+United States,USA,"Total employment, total (ages 15+)",SL.EMP.TOTL,146877694,148118950,148009711,142662805,141895097,143067821,145643468
+United States,USA,Time required to register property (days),IC.PRP.DURS,..,..,..,..,..,..,..
+France,FRA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.5429992675781,88.9219970703125,89.3519973754883,88.9580001831055,88.4079971313477,88.2730026245117,88.4589996337891
+France,FRA,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.93500012159348,6.61600005626678,5.97500014305114,6.50999993085861,7.08200001716613,7.23299998044967,7.15300005674362
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.44999980926514,7.65999984741211,7.05999994277954,8.73999977111816,8.86999988555908,8.8100004196167,9.39999961853027
+France,FRA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,9.167799949646,8.01679992675781,7.56699991226196,9.30150032043457,9.3238000869751,9.55589962005615,10.0122995376587
+France,FRA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.56319999694824,5.26380014419556,4.50479984283447,5.31510019302368,5.26429986953735,5.34649991989136,5.44610023498535
+France,FRA,"Total employment, total (ages 15+)",SL.EMP.TOTL,26632198,27081565,27445995,27164131,27212491,27226452,27263437
+France,FRA,Time required to register property (days),IC.PRP.DURS,182,122,113,113,74,74,74
+Germany,DEU,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.8249969482422,87.9700012207031,88.3079986572266,88.3720016479492,88.3789978027344,88.286003112793,88.3840026855469
+Germany,DEU,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.27799987792969,7.17499983310699,6.90899986028671,6.77900016307831,6.73699992895127,6.91600006818771,6.83899986743927
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.25,8.65999984741211,7.51999998092651,7.73999977111816,6.96999979019165,5.82000017166138,5.38000011444092
+Germany,DEU,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,9.57069969177246,8.23799991607666,7.22629976272583,6.9854998588562,6.23050022125244,5.31279993057251,4.94229984283447
+Germany,DEU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.28550004959106,4.46649980545044,3.94350004196167,3.72059988975525,3.2393000125885,2.66000008583069,2.59629988670349
+Germany,DEU,"Total employment, total (ages 15+)",SL.EMP.TOTL,37344098,38261102,38745038,38709432,39087504,39272960,39558491
+Germany,DEU,Time required to register property (days),IC.PRP.DURS,52,52,52,52,52,52,52
+"Hong Kong SAR, China",HKG,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.7480010986328,88.6549987792969,88.7900009155273,88.7750015258789,90.0400009155273,89.8410034179688,89.7509994506836
+"Hong Kong SAR, China",HKG,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.80300003290177,7.19899994134903,7.43700015544892,7.42699983716011,6.44199997186661,6.67800000309944,6.95999988913536
+"Hong Kong SAR, China",HKG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.76999998092651,4.01000022888184,3.55999994277954,5.26000022888184,4.30999994277954,3.42000007629395,3.28999996185303
+"Hong Kong SAR, China",HKG,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,3.66000008583069,3.23000001907349,3.07999992370605,4.71000003814697,3.75999999046326,2.94000005722046,3.02999997138977
+"Hong Kong SAR, China",HKG,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.29999995231628,2.4300000667572,2.10999989509583,3.27999997138977,2.98000001907349,2.25,2.16000008583069
+"Hong Kong SAR, China",HKG,"Total employment, total (ages 15+)",SL.EMP.TOTL,3424554,3505256,3533984,3488998,3499093,3595152,3689649
+"Hong Kong SAR, China",HKG,Time required to register property (days),IC.PRP.DURS,27.5,27.5,27.5,27.5,27.5,27.5,27.5
+"Korea, Rep.",KOR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,64.4580001831055,65.2979965209961,65.9150009155273,67.0279998779297,67.8639984130859,68.2379989624023,68.2440032958984
+"Korea, Rep.",KOR,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,31.5150003433228,30.5239992141723,29.9869999885559,28.7309999465943,27.4229998588562,26.8509998321533,26.840000629425
+"Korea, Rep.",KOR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.45000004768372,3.23000001907349,3.16000008583069,3.64000010490417,3.72000002861023,3.41000008583069,3.22000002861023
+"Korea, Rep.",KOR,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..,..,..,..,..
+"Korea, Rep.",KOR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..,..,..,..,..
+"Korea, Rep.",KOR,"Total employment, total (ages 15+)",SL.EMP.TOTL,23673044,23974435,24135565,24016347,24322659,24785678,25215504
+"Korea, Rep.",KOR,Time required to register property (days),IC.PRP.DURS,9.5,9.5,9.5,9,9,9,9
+China,CHN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,54.0340003967285,55.7589988708496,57.5130004882813,58.4049987792969,59.7709999084473,61,61.7809982299805
+China,CHN,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,43.3780002593994,41.4979991912842,39.4679994583129,38.5600004196167,36.9040002822876,35.4239988327026,34.6009998321533
+China,CHN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4,3.75999999046326,4.3600001335144,4.28800010681152,4.19999980926514,4.34000015258789,4.46999979019165
+China,CHN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,..,..,..,..,..,..,..
+China,CHN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,..,..,..,..,..,..,..
+China,CHN,"Total employment, total (ages 15+)",SL.EMP.TOTL,739560589,745081499,743504289,745981905,747197047,748604971,749420852
+China,CHN,Time required to register property (days),IC.PRP.DURS,..,..,..,..,..,..,..
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Data from database: Jobs,,,,,,,,,,
+Last Updated: 10/15/2020,,,,,,,,,,
